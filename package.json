@@ -1,0 +1,9 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "project description",
+  "main": "index.js",
+  "repository": "https://github.com/ageorgin/test-yarn.git",
+  "author": "Arnaud Georgin",
+  "license": "MIT"
+}
